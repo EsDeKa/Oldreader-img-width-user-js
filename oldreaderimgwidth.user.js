@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Oldreader img width
-// @version      0.6
+// @version      0.6.1
 // @description  The oldreader attached image width fix (like pcgamer)
 // @namespace    https://github.com/EsDeKa
 // @match        https://theoldreader.com/posts/all
@@ -15,7 +15,7 @@
 
     // Your code here...
     var styleEl = document.createElement('style'),
-      styleSheet;
+        styleSheet;
 
 	// Append style element to head
 	document.head.appendChild(styleEl);
