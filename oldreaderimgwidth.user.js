@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Oldreader img width
-// @version      0.6.1
+// @version      0.6.2
 // @description  The oldreader attached image width fix (like pcgamer)
 // @namespace    https://github.com/EsDeKa
 // @match        https://theoldreader.com/posts/all
