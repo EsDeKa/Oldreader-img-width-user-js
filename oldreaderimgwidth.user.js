@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oldreader img width
 // @namespace    http://tampermonkey.net/
-// @version      0.5.1
+// @version      0.5.2
 // @updateURL    https://raw.githubusercontent.com/EsDeKa/Oldreader-img-width-user-js/master/oldreaderimgwidth.js
 // @description  try to take over the world!
 // @author       Esdeka
@@ -21,5 +21,5 @@
 
 	// Grab style sheet
 	styleSheet = styleEl.sheet;
-	styleSheet.insertRule("div.enclosure > img { max-width: 60% }", 0);
+	styleSheet.insertRule("div.enclosure > img { max-width: 30% }", 0);
 })();
