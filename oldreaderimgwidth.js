@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Oldreader img width
 // @namespace    http://tampermonkey.net/
-// @version      0.5
-// @updateURL    https://github.com/EsDeKa/Oldreader-img-width-user-js/raw/master/oldreaderimgwidth.user.js
+// @version      0.5.1
+// @updateURL    https://raw.githubusercontent.com/EsDeKa/Oldreader-img-width-user-js/master/oldreaderimgwidth.js
 // @description  try to take over the world!
 // @author       Esdeka
 // @match        https://theoldreader.com/posts/all
