@@ -6,8 +6,8 @@
 // @match        https://theoldreader.com/posts/all
 // @run-at       document-start
 // @author       Esdeka
-// @updateURL    https://raw.githubusercontent.com/EsDeKa/Oldreader-img-width-user-js/master/oldreaderimgwidth.js
-// @downloadURL  https://raw.githubusercontent.com/EsDeKa/Oldreader-img-width-user-js/master/oldreaderimgwidth.js
+// @updateURL    https://raw.githubusercontent.com/EsDeKa/Oldreader-img-width-user-js/master/oldreaderimgwidth.user.js
+// @downloadURL  https://raw.githubusercontent.com/EsDeKa/Oldreader-img-width-user-js/master/oldreaderimgwidth.user.js
 // ==/UserScript==
 
 (function() {
